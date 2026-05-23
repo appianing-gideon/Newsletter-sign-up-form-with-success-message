@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: (https://appianing-gideon.github.io/Newsletter-sign-up-form-with-success-message/)
+- Solution URL: [](https://github.com/appianing-gideon/Newsletter-sign-up-form-with-success-message)
 
 
 ### Built with
